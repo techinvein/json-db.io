@@ -1,0 +1,72 @@
+[
+    {
+        "trainName": " [37386] Howrah - Goghat Local",
+        "departureTime": "4:22 AM",
+        "arrivalTime": "7:00 AM",
+        "totalStoppages": "25",
+        "runningDays": "Daily",
+        "remarks": "",
+        "suggestions": "",
+        "travelDurations": "2 hours 38 minutes"
+    },
+    {
+        "trainName": "[37313] Howrah - Tarakeshwar - Goghat Local",
+        "departureTime": "6:32 AM",
+        "arrivalTime": "9:15 AM",
+        "totalStoppages": "25",
+        "runningDays": "Daily",
+        "remarks": "",
+        "suggestions": "",
+        "travelDurations": "2 hours 43 minutes"
+    },
+    {
+        "trainName": "[37373] Howrah - Goghat Local",
+        "departureTime": "7:25 AM",
+        "arrivalTime": "10:00 AM",
+        "totalStoppages": "25",
+        "runningDays": "Daily",
+        "remarks": "",
+        "suggestions": "",
+        "travelDurations": "2 hours 35 minutes"
+    },
+    {
+        "trainName": "[37375] Howrah - Goghat Local",
+        "departureTime": "10:35 AM",
+        "arrivalTime": "1:00 PM",
+        "totalStoppages": "25",
+        "runningDays": "Daily",
+        "remarks": "",
+        "suggestions": "",
+        "travelDurations": "2 hours 25 minutes"
+    },
+    {
+        "trainName": "[37329] Howrah - Tarakeshwar - Goghat Local",
+        "departureTime": "2:10 PM",
+        "arrivalTime": "4:38 PM",
+        "totalStoppages": "25",
+        "runningDays": "Daily",
+        "remarks": "",
+        "suggestions": "",
+        "travelDurations": "14 hours 28 minutes"
+    },
+    {
+        "trainName": "[37377] Howrah - Goghat Local",
+        "departureTime": "4:30 PM",
+        "arrivalTime": "6:52 PM",
+        "totalStoppages": "25",
+        "runningDays": "Daily",
+        "remarks": "",
+        "suggestions": "",
+        "travelDurations": "2 hours 22 minutes"
+    },
+    {
+        "trainName": "[37379] Howrah - Goghat Local",
+        "departureTime": "6:40 PM",
+        "arrivalTime": "9:00 PM",
+        "totalStoppages": "25",
+        "runningDays": "Daily",
+        "remarks": "",
+        "suggestions": "",
+        "travelDurations": "2 hours 20 minutes"
+    }
+]
